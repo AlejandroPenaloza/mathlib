@@ -1,5 +1,5 @@
 # Mathlib
-Library with Mathematic Functions and topics such as trigonometry and cubic equations.
+Library with Mathematic Functions and topics (trigonometry and cubic equations for now).
 
 ## Cubic Equations Background
 Related functions are developed from Cardano and Ferrari formulae.
