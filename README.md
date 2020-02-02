@@ -3,7 +3,7 @@ Library with Mathematic Functions and topics (trigonometry and cubic equations f
 
 ## Cubic Equations Background
 Related functions are developed from Cardano and Ferrari formulae.
-The main formula is:
+The main formula to get the roots:
 
 ![Cardano general solution](https://user-images.githubusercontent.com/56207845/72664835-98eef780-39d0-11ea-94d2-32238f78a98d.jpg)
 
