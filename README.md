@@ -10,5 +10,5 @@ The main formula to get the roots:
 (There are different cases and algorithms).
 
 Mathematical theory available on this [web page](https://www.google.com/url?sa=t&source=web&rct=j&url=https://people.math.osu.edu/derdzinski.1/courses/4552/4552-cubic-quartic.pdf&ved=2ahUKEwiS3vb2qpnnAhWkiOAKHR7NB40QFjAOegQIARAB&usg=AOvVaw3N-gtgzIxvPcJRMIb8Bww4&cshid=1579769310423)
-
+536w6262
 
